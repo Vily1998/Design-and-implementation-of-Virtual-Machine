@@ -1,0 +1,4 @@
+RUN
+IN AX
+ECHO AX
+STOP
